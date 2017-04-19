@@ -1,0 +1,13 @@
+<NotepadPlus>
+    <Project name="&#x041F;&#x0440;&#x043E;&#x0441;&#x0442;&#x043E;&#x0439; VU-&#x043C;&#x0435;&#x0442;&#x0440;">
+        <File name="adc_mega328.cpp" />
+        <File name="calculate.cpp" />
+        <File name="control_leds.cpp" />
+        <File name="hardware.cpp" />
+        <File name="main_simple_VU_meter.cpp" />
+        <File name="function.h" />
+        <File name="global.h" />
+        <File name="hardware.h" />
+        <File name="main_simple_VU_meter.h" />
+    </Project>
+</NotepadPlus>
